@@ -1,2 +1,2 @@
-# aster
-aster tecnologia
+# Eduardo
+Full stack developer
